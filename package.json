@@ -1,0 +1,19 @@
+{
+  "name": "aviator-nderitu",
+  "version": "0.1.0",
+  "description": "Groups historical Aviator-style rounds by how many 1.0x crashes occurred in the preceding 10 rounds, and reports the REAL observed next-round outcome split per group, with sample size shown honestly for each.",
+  "main": "dist/cli.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/cli.ts",
+    "check": "ts-node src/interactive.ts",
+    "test": "vitest run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "ts-node": "^10.9.2",
+    "@types/node": "^20.14.0",
+    "vitest": "^2.0.5"
+  }
+}

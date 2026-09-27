@@ -1,0 +1,1205 @@
+{
+  "source": "synthetic-placeholder",
+  "rounds": [
+    {
+      "roundId": "1",
+      "multiplier": 1.26
+    },
+    {
+      "roundId": "2",
+      "multiplier": 12.05
+    },
+    {
+      "roundId": "3",
+      "multiplier": 2.29
+    },
+    {
+      "roundId": "4",
+      "multiplier": 1.1
+    },
+    {
+      "roundId": "5",
+      "multiplier": 1.31
+    },
+    {
+      "roundId": "6",
+      "multiplier": 3.56
+    },
+    {
+      "roundId": "7",
+      "multiplier": 3.44
+    },
+    {
+      "roundId": "8",
+      "multiplier": 1.15
+    },
+    {
+      "roundId": "9",
+      "multiplier": 2.72
+    },
+    {
+      "roundId": "10",
+      "multiplier": 1.35
+    },
+    {
+      "roundId": "11",
+      "multiplier": 1.31
+    },
+    {
+      "roundId": "12",
+      "multiplier": 5.15
+    },
+    {
+      "roundId": "13",
+      "multiplier": 1.68
+    },
+    {
+      "roundId": "14",
+      "multiplier": 1.83
+    },
+    {
+      "roundId": "15",
+      "multiplier": 3.26
+    },
+    {
+      "roundId": "16",
+      "multiplier": 5.41
+    },
+    {
+      "roundId": "17",
+      "multiplier": 1.21
+    },
+    {
+      "roundId": "18",
+      "multiplier": 2.38
+    },
+    {
+      "roundId": "19",
+      "multiplier": 5.36
+    },
+    {
+      "roundId": "20",
+      "multiplier": 2.12
+    },
+    {
+      "roundId": "21",
+      "multiplier": 1.2
+    },
+    {
+      "roundId": "22",
+      "multiplier": 47.63
+    },
+    {
+      "roundId": "23",
+      "multiplier": 27.94
+    },
+    {
+      "roundId": "24",
+      "multiplier": 1.07
+    },
+    {
+      "roundId": "25",
+      "multiplier": 2.12
+    },
+    {
+      "roundId": "26",
+      "multiplier": 3.69
+    },
+    {
+      "roundId": "27",
+      "multiplier": 1.14
+    },
+    {
+      "roundId": "28",
+      "multiplier": 1.22
+    },
+    {
+      "roundId": "29",
+      "multiplier": 1.68
+    },
+    {
+      "roundId": "30",
+      "multiplier": 1.22
+    },
+    {
+      "roundId": "31",
+      "multiplier": 1.4
+    },
+    {
+      "roundId": "32",
+      "multiplier": 7.9
+    },
+    {
+      "roundId": "33",
+      "multiplier": 6.47
+    },
+    {
+      "roundId": "34",
+      "multiplier": 1.06
+    },
+    {
+      "roundId": "35",
+      "multiplier": 5.84
+    },
+    {
+      "roundId": "36",
+      "multiplier": 7.68
+    },
+    {
+      "roundId": "37",
+      "multiplier": 3.76
+    },
+    {
+      "roundId": "38",
+      "multiplier": 2.99
+    },
+    {
+      "roundId": "39",
+      "multiplier": 2.71
+    },
+    {
+      "roundId": "40",
+      "multiplier": 1.56
+    },
+    {
+      "roundId": "41",
+      "multiplier": 2.07
+    },
+    {
+      "roundId": "42",
+      "multiplier": 1.43
+    },
+    {
+      "roundId": "43",
+      "multiplier": 1.6
+    },
+    {
+      "roundId": "44",
+      "multiplier": 1.1
+    },
+    {
+      "roundId": "45",
+      "multiplier": 1.08
+    },
+    {
+      "roundId": "46",
+      "multiplier": 10.2
+    },
+    {
+      "roundId": "47",
+      "multiplier": 1.66
+    },
+    {
+      "roundId": "48",
+      "multiplier": 1.69
+    },
+    {
+      "roundId": "49",
+      "multiplier": 1.05
+    },
+    {
+      "roundId": "50",
+      "multiplier": 1.27
+    },
+    {
+      "roundId": "51",
+      "multiplier": 2.06
+    },
+    {
+      "roundId": "52",
+      "multiplier": 7.85
+    },
+    {
+      "roundId": "53",
+      "multiplier": 6.04
+    },
+    {
+      "roundId": "54",
+      "multiplier": 1.36
+    },
+    {
+      "roundId": "55",
+      "multiplier": 14.24
+    },
+    {
+      "roundId": "56",
+      "multiplier": 36.75
+    },
+    {
+      "roundId": "57",
+      "multiplier": 2.45
+    },
+    {
+      "roundId": "58",
+      "multiplier": 1.21
+    },
+    {
+      "roundId": "59",
+      "multiplier": 1.73
+    },
+    {
+      "roundId": "60",
+      "multiplier": 1.09
+    },
+    {
+      "roundId": "61",
+      "multiplier": 1.07
+    },
+    {
+      "roundId": "62",
+      "multiplier": 1
+    },
+    {
+      "roundId": "63",
+      "multiplier": 7.84
+    },
+    {
+      "roundId": "64",
+      "multiplier": 1
+    },
+    {
+      "roundId": "65",
+      "multiplier": 5.65
+    },
+    {
+      "roundId": "66",
+      "multiplier": 1.13
+    },
+    {
+      "roundId": "67",
+      "multiplier": 200.44
+    },
+    {
+      "roundId": "68",
+      "multiplier": 1.22
+    },
+    {
+      "roundId": "69",
+      "multiplier": 1.01
+    },
+    {
+      "roundId": "70",
+      "multiplier": 2.56
+    },
+    {
+      "roundId": "71",
+      "multiplier": 2.66
+    },
+    {
+      "roundId": "72",
+      "multiplier": 1.83
+    },
+    {
+      "roundId": "73",
+      "multiplier": 5.13
+    },
+    {
+      "roundId": "74",
+      "multiplier": 1.93
+    },
+    {
+      "roundId": "75",
+      "multiplier": 1.37
+    },
+    {
+      "roundId": "76",
+      "multiplier": 1.11
+    },
+    {
+      "roundId": "77",
+      "multiplier": 3
+    },
+    {
+      "roundId": "78",
+      "multiplier": 2.85
+    },
+    {
+      "roundId": "79",
+      "multiplier": 1.02
+    },
+    {
+      "roundId": "80",
+      "multiplier": 2.83
+    },
+    {
+      "roundId": "81",
+      "multiplier": 1.36
+    },
+    {
+      "roundId": "82",
+      "multiplier": 1.04
+    },
+    {
+      "roundId": "83",
+      "multiplier": 1.17
+    },
+    {
+      "roundId": "84",
+      "multiplier": 3.1
+    },
+    {
+      "roundId": "85",
+      "multiplier": 2.39
+    },
+    {
+      "roundId": "86",
+      "multiplier": 3.32
+    },
+    {
+      "roundId": "87",
+      "multiplier": 1.09
+    },
+    {
+      "roundId": "88",
+      "multiplier": 4.47
+    },
+    {
+      "roundId": "89",
+      "multiplier": 6.08
+    },
+    {
+      "roundId": "90",
+      "multiplier": 1.52
+    },
+    {
+      "roundId": "91",
+      "multiplier": 5.24
+    },
+    {
+      "roundId": "92",
+      "multiplier": 30.45
+    },
+    {
+      "roundId": "93",
+      "multiplier": 4.15
+    },
+    {
+      "roundId": "94",
+      "multiplier": 2.35
+    },
+    {
+      "roundId": "95",
+      "multiplier": 2.36
+    },
+    {
+      "roundId": "96",
+      "multiplier": 1.41
+    },
+    {
+      "roundId": "97",
+      "multiplier": 1.2
+    },
+    {
+      "roundId": "98",
+      "multiplier": 2.61
+    },
+    {
+      "roundId": "99",
+      "multiplier": 5.98
+    },
+    {
+      "roundId": "100",
+      "multiplier": 2.63
+    },
+    {
+      "roundId": "101",
+      "multiplier": 2.18
+    },
+    {
+      "roundId": "102",
+      "multiplier": 21.69
+    },
+    {
+      "roundId": "103",
+      "multiplier": 17.07
+    },
+    {
+      "roundId": "104",
+      "multiplier": 1.21
+    },
+    {
+      "roundId": "105",
+      "multiplier": 1.13
+    },
+    {
+      "roundId": "106",
+      "multiplier": 38.15
+    },
+    {
+      "roundId": "107",
+      "multiplier": 2.44
+    },
+    {
+      "roundId": "108",
+      "multiplier": 1.58
+    },
+    {
+      "roundId": "109",
+      "multiplier": 27.67
+    },
+    {
+      "roundId": "110",
+      "multiplier": 3.88
+    },
+    {
+      "roundId": "111",
+      "multiplier": 1
+    },
+    {
+      "roundId": "112",
+      "multiplier": 1.17
+    },
+    {
+      "roundId": "113",
+      "multiplier": 1.28
+    },
+    {
+      "roundId": "114",
+      "multiplier": 1.75
+    },
+    {
+      "roundId": "115",
+      "multiplier": 7.27
+    },
+    {
+      "roundId": "116",
+      "multiplier": 2.33
+    },
+    {
+      "roundId": "117",
+      "multiplier": 2.27
+    },
+    {
+      "roundId": "118",
+      "multiplier": 1.61
+    },
+    {
+      "roundId": "119",
+      "multiplier": 1.68
+    },
+    {
+      "roundId": "120",
+      "multiplier": 1.11
+    },
+    {
+      "roundId": "121",
+      "multiplier": 3.29
+    },
+    {
+      "roundId": "122",
+      "multiplier": 2.02
+    },
+    {
+      "roundId": "123",
+      "multiplier": 3.94
+    },
+    {
+      "roundId": "124",
+      "multiplier": 3.08
+    },
+    {
+      "roundId": "125",
+      "multiplier": 4
+    },
+    {
+      "roundId": "126",
+      "multiplier": 2
+    },
+    {
+      "roundId": "127",
+      "multiplier": 19.87
+    },
+    {
+      "roundId": "128",
+      "multiplier": 2.98
+    },
+    {
+      "roundId": "129",
+      "multiplier": 4.14
+    },
+    {
+      "roundId": "130",
+      "multiplier": 3.6
+    },
+    {
+      "roundId": "131",
+      "multiplier": 3.81
+    },
+    {
+      "roundId": "132",
+      "multiplier": 1.1
+    },
+    {
+      "roundId": "133",
+      "multiplier": 2.42
+    },
+    {
+      "roundId": "134",
+      "multiplier": 1.02
+    },
+    {
+      "roundId": "135",
+      "multiplier": 11.61
+    },
+    {
+      "roundId": "136",
+      "multiplier": 1.1
+    },
+    {
+      "roundId": "137",
+      "multiplier": 1.33
+    },
+    {
+      "roundId": "138",
+      "multiplier": 1.41
+    },
+    {
+      "roundId": "139",
+      "multiplier": 5.64
+    },
+    {
+      "roundId": "140",
+      "multiplier": 1.27
+    },
+    {
+      "roundId": "141",
+      "multiplier": 2.09
+    },
+    {
+      "roundId": "142",
+      "multiplier": 19.55
+    },
+    {
+      "roundId": "143",
+      "multiplier": 1.32
+    },
+    {
+      "roundId": "144",
+      "multiplier": 3.38
+    },
+    {
+      "roundId": "145",
+      "multiplier": 4.44
+    },
+    {
+      "roundId": "146",
+      "multiplier": 2.57
+    },
+    {
+      "roundId": "147",
+      "multiplier": 1.27
+    },
+    {
+      "roundId": "148",
+      "multiplier": 35.59
+    },
+    {
+      "roundId": "149",
+      "multiplier": 2.53
+    },
+    {
+      "roundId": "150",
+      "multiplier": 10.87
+    },
+    {
+      "roundId": "151",
+      "multiplier": 1.71
+    },
+    {
+      "roundId": "152",
+      "multiplier": 1.95
+    },
+    {
+      "roundId": "153",
+      "multiplier": 1.53
+    },
+    {
+      "roundId": "154",
+      "multiplier": 1.19
+    },
+    {
+      "roundId": "155",
+      "multiplier": 1.69
+    },
+    {
+      "roundId": "156",
+      "multiplier": 11.67
+    },
+    {
+      "roundId": "157",
+      "multiplier": 1.89
+    },
+    {
+      "roundId": "158",
+      "multiplier": 1.2
+    },
+    {
+      "roundId": "159",
+      "multiplier": 1.71
+    },
+    {
+      "roundId": "160",
+      "multiplier": 3.9
+    },
+    {
+      "roundId": "161",
+      "multiplier": 1.25
+    },
+    {
+      "roundId": "162",
+      "multiplier": 3.81
+    },
+    {
+      "roundId": "163",
+      "multiplier": 1.54
+    },
+    {
+      "roundId": "164",
+      "multiplier": 1.17
+    },
+    {
+      "roundId": "165",
+      "multiplier": 6.65
+    },
+    {
+      "roundId": "166",
+      "multiplier": 1.63
+    },
+    {
+      "roundId": "167",
+      "multiplier": 1.43
+    },
+    {
+      "roundId": "168",
+      "multiplier": 1.26
+    },
+    {
+      "roundId": "169",
+      "multiplier": 1.26
+    },
+    {
+      "roundId": "170",
+      "multiplier": 1.17
+    },
+    {
+      "roundId": "171",
+      "multiplier": 1.6
+    },
+    {
+      "roundId": "172",
+      "multiplier": 2.62
+    },
+    {
+      "roundId": "173",
+      "multiplier": 47.02
+    },
+    {
+      "roundId": "174",
+      "multiplier": 1.24
+    },
+    {
+      "roundId": "175",
+      "multiplier": 4.16
+    },
+    {
+      "roundId": "176",
+      "multiplier": 1.25
+    },
+    {
+      "roundId": "177",
+      "multiplier": 2.16
+    },
+    {
+      "roundId": "178",
+      "multiplier": 1.91
+    },
+    {
+      "roundId": "179",
+      "multiplier": 15.08
+    },
+    {
+      "roundId": "180",
+      "multiplier": 1.13
+    },
+    {
+      "roundId": "181",
+      "multiplier": 1.24
+    },
+    {
+      "roundId": "182",
+      "multiplier": 3.16
+    },
+    {
+      "roundId": "183",
+      "multiplier": 1.01
+    },
+    {
+      "roundId": "184",
+      "multiplier": 20.04
+    },
+    {
+      "roundId": "185",
+      "multiplier": 2.09
+    },
+    {
+      "roundId": "186",
+      "multiplier": 1.05
+    },
+    {
+      "roundId": "187",
+      "multiplier": 1.52
+    },
+    {
+      "roundId": "188",
+      "multiplier": 4.24
+    },
+    {
+      "roundId": "189",
+      "multiplier": 1.5
+    },
+    {
+      "roundId": "190",
+      "multiplier": 2.39
+    },
+    {
+      "roundId": "191",
+      "multiplier": 3.92
+    },
+    {
+      "roundId": "192",
+      "multiplier": 1
+    },
+    {
+      "roundId": "193",
+      "multiplier": 1.82
+    },
+    {
+      "roundId": "194",
+      "multiplier": 2.5
+    },
+    {
+      "roundId": "195",
+      "multiplier": 4.08
+    },
+    {
+      "roundId": "196",
+      "multiplier": 1.67
+    },
+    {
+      "roundId": "197",
+      "multiplier": 1.23
+    },
+    {
+      "roundId": "198",
+      "multiplier": 3.44
+    },
+    {
+      "roundId": "199",
+      "multiplier": 4.05
+    },
+    {
+      "roundId": "200",
+      "multiplier": 1.17
+    },
+    {
+      "roundId": "201",
+      "multiplier": 1.54
+    },
+    {
+      "roundId": "202",
+      "multiplier": 4.89
+    },
+    {
+      "roundId": "203",
+      "multiplier": 2.76
+    },
+    {
+      "roundId": "204",
+      "multiplier": 1.34
+    },
+    {
+      "roundId": "205",
+      "multiplier": 24.26
+    },
+    {
+      "roundId": "206",
+      "multiplier": 4.17
+    },
+    {
+      "roundId": "207",
+      "multiplier": 1.82
+    },
+    {
+      "roundId": "208",
+      "multiplier": 2.34
+    },
+    {
+      "roundId": "209",
+      "multiplier": 4.13
+    },
+    {
+      "roundId": "210",
+      "multiplier": 1.32
+    },
+    {
+      "roundId": "211",
+      "multiplier": 10.24
+    },
+    {
+      "roundId": "212",
+      "multiplier": 1.63
+    },
+    {
+      "roundId": "213",
+      "multiplier": 2.06
+    },
+    {
+      "roundId": "214",
+      "multiplier": 7.64
+    },
+    {
+      "roundId": "215",
+      "multiplier": 2.66
+    },
+    {
+      "roundId": "216",
+      "multiplier": 1
+    },
+    {
+      "roundId": "217",
+      "multiplier": 1.43
+    },
+    {
+      "roundId": "218",
+      "multiplier": 1.01
+    },
+    {
+      "roundId": "219",
+      "multiplier": 1.96
+    },
+    {
+      "roundId": "220",
+      "multiplier": 1.46
+    },
+    {
+      "roundId": "221",
+      "multiplier": 3.55
+    },
+    {
+      "roundId": "222",
+      "multiplier": 4.85
+    },
+    {
+      "roundId": "223",
+      "multiplier": 3.72
+    },
+    {
+      "roundId": "224",
+      "multiplier": 2.92
+    },
+    {
+      "roundId": "225",
+      "multiplier": 1.16
+    },
+    {
+      "roundId": "226",
+      "multiplier": 1.69
+    },
+    {
+      "roundId": "227",
+      "multiplier": 1.16
+    },
+    {
+      "roundId": "228",
+      "multiplier": 1.25
+    },
+    {
+      "roundId": "229",
+      "multiplier": 1.11
+    },
+    {
+      "roundId": "230",
+      "multiplier": 1
+    },
+    {
+      "roundId": "231",
+      "multiplier": 1.28
+    },
+    {
+      "roundId": "232",
+      "multiplier": 3.5
+    },
+    {
+      "roundId": "233",
+      "multiplier": 4.02
+    },
+    {
+      "roundId": "234",
+      "multiplier": 2.38
+    },
+    {
+      "roundId": "235",
+      "multiplier": 1.23
+    },
+    {
+      "roundId": "236",
+      "multiplier": 4.27
+    },
+    {
+      "roundId": "237",
+      "multiplier": 2.18
+    },
+    {
+      "roundId": "238",
+      "multiplier": 1.54
+    },
+    {
+      "roundId": "239",
+      "multiplier": 2.23
+    },
+    {
+      "roundId": "240",
+      "multiplier": 2.87
+    },
+    {
+      "roundId": "241",
+      "multiplier": 1.08
+    },
+    {
+      "roundId": "242",
+      "multiplier": 2.12
+    },
+    {
+      "roundId": "243",
+      "multiplier": 3.15
+    },
+    {
+      "roundId": "244",
+      "multiplier": 50.19
+    },
+    {
+      "roundId": "245",
+      "multiplier": 1
+    },
+    {
+      "roundId": "246",
+      "multiplier": 1.34
+    },
+    {
+      "roundId": "247",
+      "multiplier": 1.89
+    },
+    {
+      "roundId": "248",
+      "multiplier": 1.22
+    },
+    {
+      "roundId": "249",
+      "multiplier": 4.67
+    },
+    {
+      "roundId": "250",
+      "multiplier": 2.93
+    },
+    {
+      "roundId": "251",
+      "multiplier": 1.38
+    },
+    {
+      "roundId": "252",
+      "multiplier": 1.93
+    },
+    {
+      "roundId": "253",
+      "multiplier": 13.1
+    },
+    {
+      "roundId": "254",
+      "multiplier": 1.38
+    },
+    {
+      "roundId": "255",
+      "multiplier": 16.08
+    },
+    {
+      "roundId": "256",
+      "multiplier": 1.34
+    },
+    {
+      "roundId": "257",
+      "multiplier": 1.26
+    },
+    {
+      "roundId": "258",
+      "multiplier": 1.71
+    },
+    {
+      "roundId": "259",
+      "multiplier": 1.31
+    },
+    {
+      "roundId": "260",
+      "multiplier": 4.57
+    },
+    {
+      "roundId": "261",
+      "multiplier": 1.4
+    },
+    {
+      "roundId": "262",
+      "multiplier": 1.08
+    },
+    {
+      "roundId": "263",
+      "multiplier": 34.85
+    },
+    {
+      "roundId": "264",
+      "multiplier": 2.25
+    },
+    {
+      "roundId": "265",
+      "multiplier": 2.88
+    },
+    {
+      "roundId": "266",
+      "multiplier": 11.62
+    },
+    {
+      "roundId": "267",
+      "multiplier": 1.21
+    },
+    {
+      "roundId": "268",
+      "multiplier": 7.57
+    },
+    {
+      "roundId": "269",
+      "multiplier": 3.46
+    },
+    {
+      "roundId": "270",
+      "multiplier": 7.39
+    },
+    {
+      "roundId": "271",
+      "multiplier": 1.32
+    },
+    {
+      "roundId": "272",
+      "multiplier": 4.32
+    },
+    {
+      "roundId": "273",
+      "multiplier": 2.98
+    },
+    {
+      "roundId": "274",
+      "multiplier": 4.91
+    },
+    {
+      "roundId": "275",
+      "multiplier": 12.99
+    },
+    {
+      "roundId": "276",
+      "multiplier": 1.34
+    },
+    {
+      "roundId": "277",
+      "multiplier": 5.2
+    },
+    {
+      "roundId": "278",
+      "multiplier": 1.66
+    },
+    {
+      "roundId": "279",
+      "multiplier": 2.06
+    },
+    {
+      "roundId": "280",
+      "multiplier": 2.2
+    },
+    {
+      "roundId": "281",
+      "multiplier": 3.76
+    },
+    {
+      "roundId": "282",
+      "multiplier": 1.72
+    },
+    {
+      "roundId": "283",
+      "multiplier": 1.56
+    },
+    {
+      "roundId": "284",
+      "multiplier": 1.12
+    },
+    {
+      "roundId": "285",
+      "multiplier": 1.05
+    },
+    {
+      "roundId": "286",
+      "multiplier": 12.79
+    },
+    {
+      "roundId": "287",
+      "multiplier": 1.11
+    },
+    {
+      "roundId": "288",
+      "multiplier": 1.76
+    },
+    {
+      "roundId": "289",
+      "multiplier": 1.02
+    },
+    {
+      "roundId": "290",
+      "multiplier": 1.52
+    },
+    {
+      "roundId": "291",
+      "multiplier": 1.38
+    },
+    {
+      "roundId": "292",
+      "multiplier": 1.23
+    },
+    {
+      "roundId": "293",
+      "multiplier": 18.56
+    },
+    {
+      "roundId": "294",
+      "multiplier": 1.48
+    },
+    {
+      "roundId": "295",
+      "multiplier": 20.21
+    },
+    {
+      "roundId": "296",
+      "multiplier": 36.81
+    },
+    {
+      "roundId": "297",
+      "multiplier": 3.82
+    },
+    {
+      "roundId": "298",
+      "multiplier": 6.19
+    },
+    {
+      "roundId": "299",
+      "multiplier": 71.55
+    },
+    {
+      "roundId": "300",
+      "multiplier": 3.74
+    }
+  ]
+}
